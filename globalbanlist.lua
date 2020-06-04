@@ -1,2 +1,2 @@
 --id based so players cant change their name
-515820109
+--No bans... yet
